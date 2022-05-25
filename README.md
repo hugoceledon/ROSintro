@@ -8,19 +8,19 @@
 	<strong>2. ROS MASTER </strong> <img src="res/img/check.png" width="10">
   </li>
   <li>
-	<strong>3. ROS MASTER </strong> <img src="res/img/check.png" width="10">
+	<strong>3. PARAMETER SERVER </strong> <img src="res/img/check.png" width="10">
   </li>
   <li>
-	<strong>4. ROS MASTER </strong> <img src="res/img/check.png" width="10">
+	<strong>4. MESSAGES </strong> <img src="res/img/check.png" width="10">
   </li>
   <li>
-	<strong>5. ROS MASTER </strong> <img src="res/img/check.png" width="10">
+	<strong>5. TOPICS </strong> <img src="res/img/check.png" width="10">
   </li>
   <li>
-	<strong>6. ROS MASTER </strong> <img src="res/img/check.png" width="10">
+	<strong>6. SERVICES </strong> <img src="res/img/check.png" width="10">
   </li>
   <li>
-	<strong>7. ROS MASTER </strong> <img src="res/img/check.png" width="10">
+	<strong>7. BAGS </strong> <img src="res/img/check.png" width="10">
   </li>
 </ul>
 <div align="center">
